@@ -5,15 +5,19 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Antônio Cardoso
+- Matricula: 853577
 
 ## Prints do console do navegador
 
 <<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
+![Listagem de Títulos](image.png)
 
 <<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
+![Cálculo de Médias](image-1.png)
 
 <<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
+![Resumo de Verificações](image-2.png)
 
 <<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
+![Página com o resumo](image-3.png)
